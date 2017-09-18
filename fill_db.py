@@ -11,9 +11,9 @@ from geolocate import  COLS_XLSX#, MATCHED_XLSX
 
 MATCHED_XLSX = join('data', 'rest.xlsx')
 
-SERVER_URL = 'https://www.pmmatching.ru'
-LOGIN = 'okonstan'
-PASSWORD = 'Password102'
+SERVER_URL = '*********' # remote server url
+LOGIN = '********'
+PASSWORD = '*********'
 
 REPORT_TXT = join('data', 'report.txt')
 
